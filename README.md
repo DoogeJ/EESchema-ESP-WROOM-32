@@ -9,4 +9,4 @@ Preview:
 
 Based on this image:
 
-![Alt text](/ESP32-WROOM-32U.jpeg?raw=true "Someone elses hard work")
+![Alt text](/ESP32-WROOM-32U.png?raw=true "Someone elses hard work")
